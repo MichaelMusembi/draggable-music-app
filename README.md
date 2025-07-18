@@ -40,11 +40,11 @@ A Flutter music app demo featuring the underrated `DraggableScrollableSheet` wid
 
 > Below are screenshots of the final app UI showing the music note background and the draggable music list.
 
-###  Collapsed View
-![Collapsed View](https://raw.githubusercontent.com/MichaelMusembi/draggable-music-app/main/screenshots/app_ui.png)
-
 ###  Expanded View
-![Expanded View](https://raw.githubusercontent.com/MichaelMusembi/draggable-music-app/main/screenshots/app_ui2.png)
+![Expanded View](https://raw.githubusercontent.com/MichaelMusembi/draggable-music-app/main/screenshots/app_ui.png)
+
+###  Collapsed View
+![Collapsed View](https://raw.githubusercontent.com/MichaelMusembi/draggable-music-app/main/screenshots/app_ui2.png)
 
 
 ##  Author
